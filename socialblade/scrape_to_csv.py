@@ -36,6 +36,7 @@ others =[
 ,"http://web.archive.org/web/20150716165333/http://socialblade.com/instagram/user/kingbach/monthly"
 ,"http://web.archive.org/web/20150911221051/http://socialblade.com/instagram/user/danbilzerian/monthly"
 ,"http://web.archive.org/web/20150902004630/http://socialblade.com/instagram/user/amrezy/monthly"
+,"https://web.archive.org/web/20151025111447/http://socialblade.com/instagram/user/9gag/monthly"
 ]
 
 def scrape(url, var):
