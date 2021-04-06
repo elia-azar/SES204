@@ -1,0 +1,2874 @@
+<tbody>
+                        
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                        <tr role="row" class="odd">
+                            <td style="display:none;">1</td>
+                            <td>May 8, 2020</td>
+                           
+                            <td>5,590,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,824,514 - (<font color="green"><b>+34,744</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">2</td>
+                            <td>May 7, 2020</td>
+                           
+                            <td>5,590,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>238,789,770 - (<font color="green"><b>+37,522</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">3</td>
+                            <td>May 6, 2020</td>
+                           
+                            <td>5,580,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,752,248 - (<font color="green"><b>+36,550</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">4</td>
+                            <td>May 5, 2020</td>
+                           
+                            <td>5,580,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,715,698 - (<font color="green"><b>+37,171</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">5</td>
+                            <td>May 4, 2020</td>
+                           
+                            <td>5,580,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,678,527 - (<font color="green"><b>+38,472</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">6</td>
+                            <td>May 3, 2020</td>
+                           
+                            <td>5,580,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,640,055 - (<font color="green"><b>+40,896</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">7</td>
+                            <td>May 2, 2020</td>
+                           
+                            <td>5,580,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,599,159 - (<font color="green"><b>+36,511</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">8</td>
+                            <td>May 1, 2020</td>
+                           
+                            <td>5,580,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,562,648 - (<font color="green"><b>+36,390</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">9</td>
+                            <td>April 30, 2020</td>
+                           
+                            <td>5,580,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>238,526,258 - (<font color="green"><b>+37,577</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">10</td>
+                            <td>April 29, 2020</td>
+                           
+                            <td>5,570,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,488,681 - (<font color="green"><b>+36,011</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">11</td>
+                            <td>April 28, 2020</td>
+                           
+                            <td>5,570,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,452,670 - (<font color="green"><b>+35,218</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">12</td>
+                            <td>April 27, 2020</td>
+                           
+                            <td>5,570,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,417,452 - (<font color="green"><b>+37,034</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">13</td>
+                            <td>April 26, 2020</td>
+                           
+                            <td>5,570,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,380,418 - (<font color="green"><b>+35,796</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">14</td>
+                            <td>April 25, 2020</td>
+                           
+                            <td>5,570,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,344,622 - (<font color="green"><b>+36,081</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">15</td>
+                            <td>April 24, 2020</td>
+                           
+                            <td>5,570,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>238,308,541 - (<font color="green"><b>+38,095</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">16</td>
+                            <td>April 23, 2020</td>
+                           
+                            <td>5,560,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,270,446 - (<font color="green"><b>+34,576</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">17</td>
+                            <td>April 22, 2020</td>
+                           
+                            <td>5,560,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,235,870 - (<font color="green"><b>+38,448</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">18</td>
+                            <td>April 21, 2020</td>
+                           
+                            <td>5,560,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,197,422 - (<font color="green"><b>+39,156</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">19</td>
+                            <td>April 20, 2020</td>
+                           
+                            <td>5,560,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,158,266 - (<font color="green"><b>+41,228</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">20</td>
+                            <td>April 19, 2020</td>
+                           
+                            <td>5,560,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,117,038 - (<font color="green"><b>+38,502</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">21</td>
+                            <td>April 18, 2020</td>
+                           
+                            <td>5,560,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>238,078,536 - (<font color="green"><b>+45,658</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">22</td>
+                            <td>April 17, 2020</td>
+                           
+                            <td>5,550,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>238,032,878 - (<font color="green"><b>+43,573</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">23</td>
+                            <td>April 16, 2020</td>
+                           
+                            <td>5,550,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,989,305 - (<font color="green"><b>+45,141</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">24</td>
+                            <td>April 15, 2020</td>
+                           
+                            <td>5,550,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,944,164 - (<font color="green"><b>+48,737</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">25</td>
+                            <td>April 14, 2020</td>
+                           
+                            <td>5,550,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,895,427 - (<font color="green"><b>+44,793</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">26</td>
+                            <td>April 13, 2020</td>
+                           
+                            <td>5,550,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>237,850,634 - (<font color="green"><b>+51,462</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">27</td>
+                            <td>April 12, 2020</td>
+                           
+                            <td>5,540,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,799,172 - (<font color="green"><b>+49,208</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">28</td>
+                            <td>April 11, 2020</td>
+                           
+                            <td>5,540,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,749,964 - (<font color="green"><b>+50,389</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">29</td>
+                            <td>April 10, 2020</td>
+                           
+                            <td>5,540,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,699,575 - (<font color="green"><b>+48,671</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">30</td>
+                            <td>April 9, 2020</td>
+                           
+                            <td>5,540,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,650,904 - (<font color="green"><b>+46,889</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">31</td>
+                            <td>April 8, 2020</td>
+                           
+                            <td>5,540,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>237,604,015 - (<font color="green"><b>+46,805</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">32</td>
+                            <td>April 7, 2020</td>
+                           
+                            <td>5,530,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,557,210 - (<font color="green"><b>+47,555</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">33</td>
+                            <td>April 6, 2020</td>
+                           
+                            <td>5,530,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,509,655 - (<font color="green"><b>+46,972</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">34</td>
+                            <td>April 5, 2020</td>
+                           
+                            <td>5,530,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,462,683 - (<font color="green"><b>+47,402</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">35</td>
+                            <td>April 4, 2020</td>
+                           
+                            <td>5,530,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>237,415,281 - (<font color="green"><b>+46,898</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">36</td>
+                            <td>April 3, 2020</td>
+                           
+                            <td>5,520,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,368,383 - (<font color="green"><b>+57,914</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">37</td>
+                            <td>April 2, 2020</td>
+                           
+                            <td>5,520,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,310,469 - (<font color="green"><b>+57,414</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">38</td>
+                            <td>April 1, 2020</td>
+                           
+                            <td>5,520,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,253,055 - (<font color="green"><b>+57,045</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">39</td>
+                            <td>March 31, 2020</td>
+                           
+                            <td>5,520,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,196,010 - (<font color="green"><b>+56,837</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">40</td>
+                            <td>March 30, 2020</td>
+                           
+                            <td>5,520,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>237,139,173 - (<font color="green"><b>+61,666</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">41</td>
+                            <td>March 29, 2020</td>
+                           
+                            <td>5,510,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,077,507 - (<font color="green"><b>+56,225</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">42</td>
+                            <td>March 28, 2020</td>
+                           
+                            <td>5,510,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>237,021,282 - (<font color="green"><b>+56,756</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">43</td>
+                            <td>March 27, 2020</td>
+                           
+                            <td>5,510,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>236,964,526 - (<font color="green"><b>+58,203</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">44</td>
+                            <td>March 26, 2020</td>
+                           
+                            <td>5,510,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>236,906,323 - (<font color="green"><b>+62,038</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">45</td>
+                            <td>March 25, 2020</td>
+                           
+                            <td>5,500,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>236,844,285 - (<font color="green"><b>+67,610</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">46</td>
+                            <td>March 24, 2020</td>
+                           
+                            <td>5,500,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>236,776,675 - (<font color="green"><b>+64,697</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">47</td>
+                            <td>March 23, 2020</td>
+                           
+                            <td>5,500,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>236,711,978 - (<font color="green"><b>+74,384</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">48</td>
+                            <td>March 22, 2020</td>
+                           
+                            <td>5,500,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>236,637,594 - (<font color="green"><b>+76,333</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">49</td>
+                            <td>March 21, 2020</td>
+                           
+                            <td>5,490,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>236,561,261 - (<font color="green"><b>+89,881</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">50</td>
+                            <td>March 20, 2020</td>
+                           
+                            <td>5,490,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>236,471,380 - (<font color="green"><b>+96,907</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">51</td>
+                            <td>March 19, 2020</td>
+                           
+                            <td>5,490,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>236,374,473 - (<font color="green"><b>+83,751</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">52</td>
+                            <td>March 18, 2020</td>
+                           
+                            <td>5,480,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>236,290,722 - (<font color="green"><b>+80,678</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">53</td>
+                            <td>March 17, 2020</td>
+                           
+                            <td>5,480,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>236,210,044 - (<font color="green"><b>+79,092</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">54</td>
+                            <td>March 16, 2020</td>
+                           
+                            <td>5,480,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>236,130,952 - (<font color="green"><b>+87,557</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">55</td>
+                            <td>March 15, 2020</td>
+                           
+                            <td>5,470,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>236,043,395 - (<font color="green"><b>+85,547</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">56</td>
+                            <td>March 14, 2020</td>
+                           
+                            <td>5,470,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>235,957,848 - (<font color="green"><b>+77,685</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">57</td>
+                            <td>March 13, 2020</td>
+                           
+                            <td>5,460,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>235,880,163 - (<font color="green"><b>+64,237</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">58</td>
+                            <td>March 12, 2020</td>
+                           
+                            <td>5,460,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>235,815,926 - (<font color="green"><b>+61,883</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">59</td>
+                            <td>March 11, 2020</td>
+                           
+                            <td>5,450,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>235,754,043 - (<font color="green"><b>+72,452</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">60</td>
+                            <td>March 10, 2020</td>
+                           
+                            <td>5,450,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>235,681,591 - (<font color="green"><b>+75,558</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">61</td>
+                            <td>March 9, 2020</td>
+                           
+                            <td>5,450,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>235,606,033 - (<font color="green"><b>+102,906</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">62</td>
+                            <td>March 8, 2020</td>
+                           
+                            <td>5,440,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>235,503,127 - (<font color="green"><b>+118,541</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">63</td>
+                            <td>March 7, 2020</td>
+                           
+                            <td>5,440,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>235,384,586 - (<font color="green"><b>+87,050</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">64</td>
+                            <td>March 6, 2020</td>
+                           
+                            <td>5,430,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>235,297,536 - (<font color="green"><b>+69,421</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">65</td>
+                            <td>March 5, 2020</td>
+                           
+                            <td>5,430,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>235,228,115 - (<font color="green"><b>+69,947</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">66</td>
+                            <td>March 4, 2020</td>
+                           
+                            <td>5,430,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>235,158,168 - (<font color="green"><b>+60,063</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">67</td>
+                            <td>March 3, 2020</td>
+                           
+                            <td>5,420,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>235,098,105 - (<font color="green"><b>+58,801</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">68</td>
+                            <td>March 2, 2020</td>
+                           
+                            <td>5,420,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>235,039,304 - (<font color="green"><b>+81,187</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">69</td>
+                            <td>March 1, 2020</td>
+                           
+                            <td>5,420,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>234,958,117 - (<font color="green"><b>+86,229</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">70</td>
+                            <td>February 29, 2020</td>
+                           
+                            <td>5,410,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>234,871,888 - (<font color="green"><b>+74,120</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">71</td>
+                            <td>February 28, 2020</td>
+                           
+                            <td>5,410,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>234,797,768 - (<font color="green"><b>+62,911</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">72</td>
+                            <td>February 27, 2020</td>
+                           
+                            <td>5,400,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>234,734,857 - (<font color="green"><b>+58,423</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">73</td>
+                            <td>February 26, 2020</td>
+                           
+                            <td>5,400,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>234,676,434 - (<font color="green"><b>+67,466</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">74</td>
+                            <td>February 25, 2020</td>
+                           
+                            <td>5,400,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>234,608,968 - (<font color="green"><b>+62,202</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">75</td>
+                            <td>February 24, 2020</td>
+                           
+                            <td>5,400,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>234,546,766 - (<font color="green"><b>+86,955</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">76</td>
+                            <td>February 23, 2020</td>
+                           
+                            <td>5,390,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>234,459,811 - (<font color="green"><b>+84,269</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">77</td>
+                            <td>February 22, 2020</td>
+                           
+                            <td>5,390,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>234,375,542 - (<font color="green"><b>+75,238</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">78</td>
+                            <td>February 21, 2020</td>
+                           
+                            <td>5,380,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>234,300,304 - (<font color="green"><b>+60,716</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">79</td>
+                            <td>February 20, 2020</td>
+                           
+                            <td>5,380,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>234,239,588 - (<font color="green"><b>+62,472</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">80</td>
+                            <td>February 19, 2020</td>
+                           
+                            <td>5,380,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>234,177,116 - (<font color="green"><b>+69,244</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">81</td>
+                            <td>February 18, 2020</td>
+                           
+                            <td>5,370,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>234,107,872 - (<font color="green"><b>+73,064</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">82</td>
+                            <td>February 17, 2020</td>
+                           
+                            <td>5,370,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>234,034,808 - (<font color="green"><b>+92,557</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">83</td>
+                            <td>February 16, 2020</td>
+                           
+                            <td>5,370,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>233,942,251 - (<font color="green"><b>+96,051</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">84</td>
+                            <td>February 15, 2020</td>
+                           
+                            <td>5,360,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>233,846,200 - (<font color="green"><b>+77,164</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">85</td>
+                            <td>February 14, 2020</td>
+                           
+                            <td>5,360,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>233,769,036 - (<font color="green"><b>+74,424</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">86</td>
+                            <td>February 13, 2020</td>
+                           
+                            <td>5,350,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>233,694,612 - (<font color="green"><b>+68,793</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">87</td>
+                            <td>February 12, 2020</td>
+                           
+                            <td>5,350,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>233,625,819 - (<font color="green"><b>+65,238</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">88</td>
+                            <td>February 11, 2020</td>
+                           
+                            <td>5,350,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>233,560,581 - (<font color="green"><b>+64,736</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">89</td>
+                            <td>February 10, 2020</td>
+                           
+                            <td>5,340,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>233,495,845 - (<font color="green"><b>+89,824</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">90</td>
+                            <td>February 9, 2020</td>
+                           
+                            <td>5,340,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>233,406,021 - (<font color="green"><b>+97,253</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">91</td>
+                            <td>February 8, 2020</td>
+                           
+                            <td>5,340,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>233,308,768 - (<font color="green"><b>+79,498</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">92</td>
+                            <td>February 7, 2020</td>
+                           
+                            <td>5,330,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>233,229,270 - (<font color="green"><b>+71,660</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">93</td>
+                            <td>February 6, 2020</td>
+                           
+                            <td>5,330,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>233,157,610 - (<font color="green"><b>+70,281</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">94</td>
+                            <td>February 5, 2020</td>
+                           
+                            <td>5,330,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>233,087,329 - (<font color="green"><b>+74,714</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">95</td>
+                            <td>February 4, 2020</td>
+                           
+                            <td>5,320,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>233,012,615 - (<font color="green"><b>+74,822</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">96</td>
+                            <td>February 3, 2020</td>
+                           
+                            <td>5,320,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>232,937,793 - (<font color="green"><b>+97,090</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">97</td>
+                            <td>February 2, 2020</td>
+                           
+                            <td>5,320,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>232,840,703 - (<font color="green"><b>+105,701</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">98</td>
+                            <td>February 1, 2020</td>
+                           
+                            <td>5,310,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>232,735,002 - (<font color="green"><b>+87,658</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">99</td>
+                            <td>January 31, 2020</td>
+                           
+                            <td>5,310,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>232,647,344 - (<font color="green"><b>+78,916</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">100</td>
+                            <td>January 30, 2020</td>
+                           
+                            <td>5,300,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>232,568,428 - (<font color="green"><b>+81,683</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">101</td>
+                            <td>January 29, 2020</td>
+                           
+                            <td>5,300,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>232,486,745 - (<font color="green"><b>+83,145</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">102</td>
+                            <td>January 28, 2020</td>
+                           
+                            <td>5,300,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>232,403,600 - (<font color="green"><b>+87,169</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">103</td>
+                            <td>January 27, 2020</td>
+                           
+                            <td>5,290,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>232,316,431 - (<font color="green"><b>+124,608</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">104</td>
+                            <td>January 26, 2020</td>
+                           
+                            <td>5,290,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>232,191,823 - (<font color="green"><b>+131,796</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">105</td>
+                            <td>January 25, 2020</td>
+                           
+                            <td>5,290,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>232,060,027 - (<font color="green"><b>+105,685</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">106</td>
+                            <td>January 24, 2020</td>
+                           
+                            <td>5,280,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>231,954,342 - (<font color="green"><b>+110,600</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">107</td>
+                            <td>January 23, 2020</td>
+                           
+                            <td>5,280,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>231,843,742 - (<font color="green"><b>+116,016</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">108</td>
+                            <td>January 22, 2020</td>
+                           
+                            <td>5,270,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>231,727,726 - (<font color="green"><b>+131,344</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">109</td>
+                            <td>January 21, 2020</td>
+                           
+                            <td>5,270,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>231,596,382 - (<font color="green"><b>+178,536</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">110</td>
+                            <td>January 20, 2020</td>
+                           
+                            <td>5,270,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>231,417,846 - (<font color="green"><b>+459,339</b></font>)</td>                                                        
+                            
+                            <td>35 - (<font color="green"><b>+1</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">111</td>
+                            <td>January 19, 2020</td>
+                           
+                            <td>5,270,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>230,958,507 - (<font color="green"><b>+146,589</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">112</td>
+                            <td>January 18, 2020</td>
+                           
+                            <td>5,260,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>230,811,918 - (<font color="green"><b>+124,743</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">113</td>
+                            <td>January 17, 2020</td>
+                           
+                            <td>5,260,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>230,687,175 - (<font color="green"><b>+105,869</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">114</td>
+                            <td>January 16, 2020</td>
+                           
+                            <td>5,250,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>230,581,306 - (<font color="green"><b>+96,560</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">115</td>
+                            <td>January 15, 2020</td>
+                           
+                            <td>5,250,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>230,484,746 - (<font color="green"><b>+101,008</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">116</td>
+                            <td>January 14, 2020</td>
+                           
+                            <td>5,240,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>230,383,738 - (<font color="green"><b>+101,772</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">117</td>
+                            <td>January 13, 2020</td>
+                           
+                            <td>5,240,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>230,281,966 - (<font color="green"><b>+128,590</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">118</td>
+                            <td>January 12, 2020</td>
+                           
+                            <td>5,240,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>230,153,376 - (<font color="green"><b>+144,432</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">119</td>
+                            <td>January 11, 2020</td>
+                           
+                            <td>5,230,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>230,008,944 - (<font color="green"><b>+110,132</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">120</td>
+                            <td>January 10, 2020</td>
+                           
+                            <td>5,230,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>229,898,812 - (<font color="green"><b>+106,327</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">121</td>
+                            <td>January 9, 2020</td>
+                           
+                            <td>5,230,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>229,792,485 - (<font color="green"><b>+107,287</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">122</td>
+                            <td>January 8, 2020</td>
+                           
+                            <td>5,220,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>229,685,198 - (<font color="green"><b>+101,690</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">123</td>
+                            <td>January 7, 2020</td>
+                           
+                            <td>5,220,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>229,583,508 - (<font color="green"><b>+114,995</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">124</td>
+                            <td>January 6, 2020</td>
+                           
+                            <td>5,220,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>229,468,513 - (<font color="green"><b>+131,510</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">125</td>
+                            <td>January 5, 2020</td>
+                           
+                            <td>5,210,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>229,337,003 - (<font color="green"><b>+131,168</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">126</td>
+                            <td>January 4, 2020</td>
+                           
+                            <td>5,210,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>229,205,835 - (<font color="green"><b>+137,730</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">127</td>
+                            <td>January 3, 2020</td>
+                           
+                            <td>5,210,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>229,068,105 - (<font color="green"><b>+127,741</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">128</td>
+                            <td>January 2, 2020</td>
+                           
+                            <td>5,200,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>228,940,364 - (<font color="green"><b>+153,051</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">129</td>
+                            <td>January 1, 2020</td>
+                           
+                            <td>5,200,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>228,787,313 - (<font color="green"><b>+153,378</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">130</td>
+                            <td>December 31, 2019</td>
+                           
+                            <td>5,190,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>228,633,935 - (<font color="green"><b>+147,063</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">131</td>
+                            <td>December 30, 2019</td>
+                           
+                            <td>5,190,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>228,486,872 - (<font color="green"><b>+163,916</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">132</td>
+                            <td>December 29, 2019</td>
+                           
+                            <td>5,180,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>228,322,956 - (<font color="green"><b>+152,072</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">133</td>
+                            <td>December 28, 2019</td>
+                           
+                            <td>5,180,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>228,170,884 - (<font color="green"><b>+142,610</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">134</td>
+                            <td>December 27, 2019</td>
+                           
+                            <td>5,180,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>228,028,274 - (<font color="green"><b>+139,809</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">135</td>
+                            <td>December 26, 2019</td>
+                           
+                            <td>5,170,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>227,888,465 - (<font color="green"><b>+145,322</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">136</td>
+                            <td>December 25, 2019</td>
+                           
+                            <td>5,170,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>227,743,143 - (<font color="green"><b>+140,723</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">137</td>
+                            <td>December 24, 2019</td>
+                           
+                            <td>5,160,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>227,602,420 - (<font color="green"><b>+141,044</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">138</td>
+                            <td>December 23, 2019</td>
+                           
+                            <td>5,160,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>227,461,376 - (<font color="green"><b>+143,708</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">139</td>
+                            <td>December 22, 2019</td>
+                           
+                            <td>5,150,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>227,317,668 - (<font color="green"><b>+151,067</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">140</td>
+                            <td>December 21, 2019</td>
+                           
+                            <td>5,150,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>227,166,601 - (<font color="green"><b>+129,746</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">141</td>
+                            <td>December 20, 2019</td>
+                           
+                            <td>5,140,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>227,036,855 - (<font color="green"><b>+114,752</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">142</td>
+                            <td>December 19, 2019</td>
+                           
+                            <td>5,140,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>226,922,103 - (<font color="green"><b>+107,926</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">143</td>
+                            <td>December 18, 2019</td>
+                           
+                            <td>5,130,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>226,814,177 - (<font color="green"><b>+93,461</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">144</td>
+                            <td>December 17, 2019</td>
+                           
+                            <td>5,130,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>226,720,716 - (<font color="green"><b>+85,949</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">145</td>
+                            <td>December 16, 2019</td>
+                           
+                            <td>5,130,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>226,634,767 - (<font color="green"><b>+107,454</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">146</td>
+                            <td>December 15, 2019</td>
+                           
+                            <td>5,120,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>226,527,313 - (<font color="green"><b>+109,144</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">147</td>
+                            <td>December 14, 2019</td>
+                           
+                            <td>5,120,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>226,418,169 - (<font color="green"><b>+80,570</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">148</td>
+                            <td>December 13, 2019</td>
+                           
+                            <td>5,110,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>226,337,599 - (<font color="green"><b>+67,515</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">149</td>
+                            <td>December 12, 2019</td>
+                           
+                            <td>5,110,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>226,270,084 - (<font color="green"><b>+61,982</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">150</td>
+                            <td>December 11, 2019</td>
+                           
+                            <td>5,100,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>226,208,102 - (<font color="green"><b>+57,148</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">151</td>
+                            <td>December 10, 2019</td>
+                           
+                            <td>5,100,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>226,150,954 - (<font color="green"><b>+54,533</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">152</td>
+                            <td>December 9, 2019</td>
+                           
+                            <td>5,100,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>226,096,421 - (<font color="green"><b>+76,447</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">153</td>
+                            <td>December 8, 2019</td>
+                           
+                            <td>5,090,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>226,019,974 - (<font color="green"><b>+79,204</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">154</td>
+                            <td>December 7, 2019</td>
+                           
+                            <td>5,090,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>225,940,770 - (<font color="green"><b>+65,470</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">155</td>
+                            <td>December 6, 2019</td>
+                           
+                            <td>5,090,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>225,875,300 - (<font color="green"><b>+59,761</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">156</td>
+                            <td>December 5, 2019</td>
+                           
+                            <td>5,080,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>225,815,539 - (<font color="green"><b>+84,565</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">157</td>
+                            <td>December 4, 2019</td>
+                           
+                            <td>5,080,000 - (<font color="red"><b>-10,000</b></font>)</td>
+                            
+                            <td>225,730,974 - (<font color="green"><b>+84,012</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">158</td>
+                            <td>December 3, 2019</td>
+                           
+                            <td>5,090,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>225,646,962 - (<font color="green"><b>+77,358</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">159</td>
+                            <td>December 2, 2019</td>
+                           
+                            <td>5,080,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>225,569,604 - (<font color="green"><b>+109,128</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">160</td>
+                            <td>December 1, 2019</td>
+                           
+                            <td>5,080,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>225,460,476 - (<font color="green"><b>+120,259</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">161</td>
+                            <td>November 30, 2019</td>
+                           
+                            <td>5,070,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>225,340,217 - (<font color="green"><b>+99,968</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">162</td>
+                            <td>November 29, 2019</td>
+                           
+                            <td>5,070,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>225,240,249 - (<font color="green"><b>+88,952</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">163</td>
+                            <td>November 28, 2019</td>
+                           
+                            <td>5,070,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>225,151,297 - (<font color="green"><b>+84,760</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">164</td>
+                            <td>November 27, 2019</td>
+                           
+                            <td>5,060,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>225,066,537 - (<font color="green"><b>+76,181</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">165</td>
+                            <td>November 26, 2019</td>
+                           
+                            <td>5,060,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>224,990,356 - (<font color="green"><b>+78,309</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">166</td>
+                            <td>November 25, 2019</td>
+                           
+                            <td>5,050,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>224,912,047 - (<font color="green"><b>+112,116</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">167</td>
+                            <td>November 24, 2019</td>
+                           
+                            <td>5,050,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>224,799,931 - (<font color="green"><b>+119,402</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">168</td>
+                            <td>November 23, 2019</td>
+                           
+                            <td>5,040,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>224,680,529 - (<font color="green"><b>+90,167</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">169</td>
+                            <td>November 22, 2019</td>
+                           
+                            <td>5,040,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>224,590,362 - (<font color="green"><b>+81,641</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">170</td>
+                            <td>November 21, 2019</td>
+                           
+                            <td>5,040,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>224,508,721 - (<font color="green"><b>+82,147</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">171</td>
+                            <td>November 20, 2019</td>
+                           
+                            <td>5,030,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>224,426,574 - (<font color="green"><b>+80,915</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">172</td>
+                            <td>November 19, 2019</td>
+                           
+                            <td>5,030,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>224,345,659 - (<font color="green"><b>+80,943</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">173</td>
+                            <td>November 18, 2019</td>
+                           
+                            <td>5,030,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>224,264,716 - (<font color="green"><b>+105,426</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">174</td>
+                            <td>November 17, 2019</td>
+                           
+                            <td>5,020,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>224,159,290 - (<font color="green"><b>+115,260</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">175</td>
+                            <td>November 16, 2019</td>
+                           
+                            <td>5,020,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>224,044,030 - (<font color="green"><b>+90,877</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">176</td>
+                            <td>November 15, 2019</td>
+                           
+                            <td>5,010,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>223,953,153 - (<font color="green"><b>+76,227</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">177</td>
+                            <td>November 14, 2019</td>
+                           
+                            <td>5,010,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>223,876,926 - (<font color="green"><b>+76,965</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">178</td>
+                            <td>November 13, 2019</td>
+                           
+                            <td>5,010,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>223,799,961 - (<font color="green"><b>+76,671</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">179</td>
+                            <td>November 12, 2019</td>
+                           
+                            <td>5,000,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>223,723,290 - (<font color="green"><b>+74,821</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">180</td>
+                            <td>November 11, 2019</td>
+                           
+                            <td>5,000,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>223,648,469 - (<font color="green"><b>+102,411</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">181</td>
+                            <td>November 10, 2019</td>
+                           
+                            <td>5,000,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>223,546,058 - (<font color="green"><b>+115,194</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">182</td>
+                            <td>November 9, 2019</td>
+                           
+                            <td>4,990,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>223,430,864 - (<font color="green"><b>+89,098</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">183</td>
+                            <td>November 8, 2019</td>
+                           
+                            <td>4,990,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>223,341,766 - (<font color="green"><b>+72,681</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">184</td>
+                            <td>November 7, 2019</td>
+                           
+                            <td>4,980,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>223,269,085 - (<font color="green"><b>+68,166</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">185</td>
+                            <td>November 6, 2019</td>
+                           
+                            <td>4,980,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>223,200,919 - (<font color="green"><b>+70,693</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">186</td>
+                            <td>November 5, 2019</td>
+                           
+                            <td>4,980,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>223,130,226 - (<font color="green"><b>+76,737</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">187</td>
+                            <td>November 4, 2019</td>
+                           
+                            <td>4,980,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>223,053,489 - (<font color="green"><b>+101,957</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">188</td>
+                            <td>November 3, 2019</td>
+                           
+                            <td>4,970,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>222,951,532 - (<font color="green"><b>+102,686</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">189</td>
+                            <td>November 2, 2019</td>
+                           
+                            <td>4,970,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>222,848,846 - (<font color="green"><b>+90,947</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">190</td>
+                            <td>November 1, 2019</td>
+                           
+                            <td>4,970,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>222,757,899 - (<font color="green"><b>+73,470</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">191</td>
+                            <td>October 31, 2019</td>
+                           
+                            <td>4,960,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>222,684,429 - (<font color="green"><b>+73,878</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">192</td>
+                            <td>October 30, 2019</td>
+                           
+                            <td>4,960,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>222,610,551 - (<font color="green"><b>+66,055</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">193</td>
+                            <td>October 29, 2019</td>
+                           
+                            <td>4,960,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>222,544,496 - (<font color="green"><b>+72,092</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">194</td>
+                            <td>October 28, 2019</td>
+                           
+                            <td>4,950,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>222,472,404 - (<font color="green"><b>+96,971</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">195</td>
+                            <td>October 27, 2019</td>
+                           
+                            <td>4,950,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>222,375,433 - (<font color="green"><b>+105,890</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">196</td>
+                            <td>October 26, 2019</td>
+                           
+                            <td>4,950,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>222,269,543 - (<font color="green"><b>+84,537</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">197</td>
+                            <td>October 25, 2019</td>
+                           
+                            <td>4,940,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>222,185,006 - (<font color="green"><b>+72,528</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">198</td>
+                            <td>October 24, 2019</td>
+                           
+                            <td>4,940,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>222,112,478 - (<font color="green"><b>+67,143</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">199</td>
+                            <td>October 23, 2019</td>
+                           
+                            <td>4,940,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>222,045,335 - (<font color="green"><b>+68,013</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">200</td>
+                            <td>October 22, 2019</td>
+                           
+                            <td>4,930,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>221,977,322 - (<font color="green"><b>+66,489</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">201</td>
+                            <td>October 21, 2019</td>
+                           
+                            <td>4,930,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>221,910,833 - (<font color="green"><b>+100,789</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">202</td>
+                            <td>October 20, 2019</td>
+                           
+                            <td>4,930,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>221,810,044 - (<font color="green"><b>+103,850</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">203</td>
+                            <td>October 19, 2019</td>
+                           
+                            <td>4,930,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>221,706,194 - (<font color="green"><b>+85,340</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">204</td>
+                            <td>October 18, 2019</td>
+                           
+                            <td>4,920,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>221,620,854 - (<font color="green"><b>+72,041</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">205</td>
+                            <td>October 17, 2019</td>
+                           
+                            <td>4,920,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>221,548,813 - (<font color="green"><b>+66,740</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">206</td>
+                            <td>October 16, 2019</td>
+                           
+                            <td>4,920,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>221,482,073 - (<font color="green"><b>+62,608</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">207</td>
+                            <td>October 15, 2019</td>
+                           
+                            <td>4,920,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>221,419,465 - (<font color="green"><b>+72,477</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">208</td>
+                            <td>October 14, 2019</td>
+                           
+                            <td>4,910,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>221,346,988 - (<font color="green"><b>+102,363</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">209</td>
+                            <td>October 13, 2019</td>
+                           
+                            <td>4,910,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>221,244,625 - (<font color="green"><b>+104,317</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">210</td>
+                            <td>October 12, 2019</td>
+                           
+                            <td>4,910,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>221,140,308 - (<font color="green"><b>+84,900</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">211</td>
+                            <td>October 11, 2019</td>
+                           
+                            <td>4,900,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>221,055,408 - (<font color="green"><b>+69,879</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">212</td>
+                            <td>October 10, 2019</td>
+                           
+                            <td>4,900,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>220,985,529 - (<font color="green"><b>+72,749</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">213</td>
+                            <td>October 9, 2019</td>
+                           
+                            <td>4,900,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>220,912,780 - (<font color="green"><b>+68,755</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">214</td>
+                            <td>October 8, 2019</td>
+                           
+                            <td>4,900,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>220,844,025 - (<font color="green"><b>+63,567</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">215</td>
+                            <td>October 7, 2019</td>
+                           
+                            <td>4,890,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>220,780,458 - (<font color="green"><b>+94,960</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">216</td>
+                            <td>October 6, 2019</td>
+                           
+                            <td>4,890,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>220,685,498 - (<font color="green"><b>+106,647</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">217</td>
+                            <td>October 5, 2019</td>
+                           
+                            <td>4,890,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>220,578,851 - (<font color="green"><b>+84,032</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">218</td>
+                            <td>October 4, 2019</td>
+                           
+                            <td>4,880,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>220,494,819 - (<font color="green"><b>+70,261</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">219</td>
+                            <td>October 3, 2019</td>
+                           
+                            <td>4,880,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>220,424,558 - (<font color="green"><b>+66,352</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">220</td>
+                            <td>October 2, 2019</td>
+                           
+                            <td>4,880,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>220,358,206 - (<font color="green"><b>+65,477</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">221</td>
+                            <td>October 1, 2019</td>
+                           
+                            <td>4,880,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>220,292,729 - (<font color="green"><b>+68,981</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">222</td>
+                            <td>September 30, 2019</td>
+                           
+                            <td>4,870,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>220,223,748 - (<font color="green"><b>+99,553</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">223</td>
+                            <td>September 29, 2019</td>
+                           
+                            <td>4,870,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>220,124,195 - (<font color="green"><b>+118,652</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">224</td>
+                            <td>September 28, 2019</td>
+                           
+                            <td>4,870,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>220,005,543 - (<font color="green"><b>+79,414</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">225</td>
+                            <td>September 27, 2019</td>
+                           
+                            <td>4,860,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>219,926,129 - (<font color="green"><b>+68,342</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">226</td>
+                            <td>September 26, 2019</td>
+                           
+                            <td>4,860,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>219,857,787 - (<font color="green"><b>+64,514</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">227</td>
+                            <td>September 25, 2019</td>
+                           
+                            <td>4,860,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>219,793,273 - (<font color="green"><b>+65,406</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">228</td>
+                            <td>September 24, 2019</td>
+                           
+                            <td>4,860,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>219,727,867 - (<font color="green"><b>+65,492</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">229</td>
+                            <td>September 23, 2019</td>
+                           
+                            <td>4,850,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>219,662,375 - (<font color="green"><b>+99,220</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">230</td>
+                            <td>September 22, 2019</td>
+                           
+                            <td>4,850,000 - (<font color="green"><b>+10,000</b></font>)</td>
+                            
+                            <td>219,563,155 - (<font color="green"><b>+106,476</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">231</td>
+                            <td>September 21, 2019</td>
+                           
+                            <td>4,840,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>219,456,679 - (<font color="green"><b>+83,364</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">232</td>
+                            <td>September 20, 2019</td>
+                           
+                            <td>4,840,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>219,373,315 - (<font color="green"><b>+67,764</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">233</td>
+                            <td>September 19, 2019</td>
+                           
+                            <td>4,840,000 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>219,305,551 - (<font color="green"><b>+66,703</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">234</td>
+                            <td>September 18, 2019</td>
+                           
+                            <td>4,840,000 - (<font color="green"><b>+902</b></font>)</td>
+                            
+                            <td>219,238,848 - (<font color="green"><b>+62,141</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">235</td>
+                            <td>September 17, 2019</td>
+                           
+                            <td>4,839,098 - (<font color="green"><b>+2,172</b></font>)</td>
+                            
+                            <td>219,176,707 - (<font color="green"><b>+68,454</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">236</td>
+                            <td>September 16, 2019</td>
+                           
+                            <td>4,836,926 - (<font color="green"><b>+3,254</b></font>)</td>
+                            
+                            <td>219,108,253 - (<font color="green"><b>+100,399</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">237</td>
+                            <td>September 15, 2019</td>
+                           
+                            <td>4,833,672 - (<font color="green"><b>+3,854</b></font>)</td>
+                            
+                            <td>219,007,854 - (<font color="green"><b>+100,717</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">238</td>
+                            <td>September 14, 2019</td>
+                           
+                            <td>4,829,818 - (<font color="green"><b>+3,284</b></font>)</td>
+                            
+                            <td>218,907,137 - (<font color="green"><b>+78,912</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">239</td>
+                            <td>September 13, 2019</td>
+                           
+                            <td>4,826,534 - (<font color="green"><b>+2,502</b></font>)</td>
+                            
+                            <td>218,828,225 - (<font color="green"><b>+67,765</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">240</td>
+                            <td>September 12, 2019</td>
+                           
+                            <td>4,824,032 - (<font color="green"><b>+2,504</b></font>)</td>
+                            
+                            <td>218,760,460 - (<font color="green"><b>+71,113</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">241</td>
+                            <td>September 11, 2019</td>
+                           
+                            <td>4,821,528 - (<font color="green"><b>+2,177</b></font>)</td>
+                            
+                            <td>218,689,347 - (<font color="green"><b>+66,742</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">242</td>
+                            <td>September 10, 2019</td>
+                           
+                            <td>4,819,351 - (<font color="green"><b>+1,905</b></font>)</td>
+                            
+                            <td>218,622,605 - (<font color="green"><b>+62,435</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">243</td>
+                            <td>September 9, 2019</td>
+                           
+                            <td>4,817,446 - (<font color="green"><b>+3,049</b></font>)</td>
+                            
+                            <td>218,560,170 - (<font color="green"><b>+77,093</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">244</td>
+                            <td>September 8, 2019</td>
+                           
+                            <td>4,814,397 - (<font color="green"><b>+3,617</b></font>)</td>
+                            
+                            <td>218,483,077 - (<font color="green"><b>+90,613</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">245</td>
+                            <td>September 7, 2019</td>
+                           
+                            <td>4,810,780 - (<font color="green"><b>+2,745</b></font>)</td>
+                            
+                            <td>218,392,464 - (<font color="green"><b>+72,706</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">246</td>
+                            <td>September 6, 2019</td>
+                           
+                            <td>4,808,035 - (<font color="green"><b>+2,165</b></font>)</td>
+                            
+                            <td>218,319,758 - (<font color="green"><b>+70,481</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">247</td>
+                            <td>September 5, 2019</td>
+                           
+                            <td>4,805,870 - (<font color="green"><b>+1,941</b></font>)</td>
+                            
+                            <td>218,249,277 - (<font color="green"><b>+67,434</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">248</td>
+                            <td>September 4, 2019</td>
+                           
+                            <td>4,803,929 - (<font color="green"><b>+1,766</b></font>)</td>
+                            
+                            <td>218,181,843 - (<font color="green"><b>+69,664</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">249</td>
+                            <td>September 3, 2019</td>
+                           
+                            <td>4,802,163 - (<font color="green"><b>+2,139</b></font>)</td>
+                            
+                            <td>218,112,179 - (<font color="green"><b>+83,679</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">250</td>
+                            <td>September 2, 2019</td>
+                           
+                            <td>4,800,024 - (<font color="green"><b>+3,001</b></font>)</td>
+                            
+                            <td>218,028,500 - (<font color="green"><b>+101,164</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">251</td>
+                            <td>September 1, 2019</td>
+                           
+                            <td>4,797,023 - (<font color="green"><b>+3,490</b></font>)</td>
+                            
+                            <td>217,927,336 - (<font color="green"><b>+104,205</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">252</td>
+                            <td>August 31, 2019</td>
+                           
+                            <td>4,793,533 - (<font color="green"><b>+3,765</b></font>)</td>
+                            
+                            <td>217,823,131 - (<font color="green"><b>+91,208</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">253</td>
+                            <td>August 30, 2019</td>
+                           
+                            <td>4,789,768 - (<font color="green"><b>+2,525</b></font>)</td>
+                            
+                            <td>217,731,923 - (<font color="green"><b>+86,699</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">254</td>
+                            <td>August 29, 2019</td>
+                           
+                            <td>4,787,243 - (<font color="green"><b>+2,124</b></font>)</td>
+                            
+                            <td>217,645,224 - (<font color="green"><b>+79,157</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">255</td>
+                            <td>August 28, 2019</td>
+                           
+                            <td>4,785,119 - (<font color="green"><b>+1,956</b></font>)</td>
+                            
+                            <td>217,566,067 - (<font color="green"><b>+77,362</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">256</td>
+                            <td>August 27, 2019</td>
+                           
+                            <td>4,783,163 - (<font color="green"><b>+2,048</b></font>)</td>
+                            
+                            <td>217,488,705 - (<font color="green"><b>+79,547</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">257</td>
+                            <td>August 26, 2019</td>
+                           
+                            <td>4,781,115 - (<font color="green"><b>+2,528</b></font>)</td>
+                            
+                            <td>217,409,158 - (<font color="green"><b>+103,681</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">258</td>
+                            <td>August 25, 2019</td>
+                           
+                            <td>4,778,587 - (<font color="green"><b>+3,204</b></font>)</td>
+                            
+                            <td>217,305,477 - (<font color="green"><b>+118,023</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">259</td>
+                            <td>August 24, 2019</td>
+                           
+                            <td>4,775,383 - (<font color="green"><b>+2,951</b></font>)</td>
+                            
+                            <td>217,187,454 - (<font color="green"><b>+82,373</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">260</td>
+                            <td>August 23, 2019</td>
+                           
+                            <td>4,772,432 - (<font color="green"><b>+1,463</b></font>)</td>
+                            
+                            <td>217,105,081 - (<font color="green"><b>+85,953</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">261</td>
+                            <td>August 22, 2019</td>
+                           
+                            <td>4,770,969 - (<font color="green"><b>+2,357</b></font>)</td>
+                            
+                            <td>217,019,128 - (<font color="green"><b>+84,010</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">262</td>
+                            <td>August 21, 2019</td>
+                           
+                            <td>4,768,612 - (<font color="green"><b>+2,414</b></font>)</td>
+                            
+                            <td>216,935,118 - (<font color="green"><b>+76,990</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">263</td>
+                            <td>August 20, 2019</td>
+                           
+                            <td>4,766,198 - (<font color="green"><b>+2,364</b></font>)</td>
+                            
+                            <td>216,858,128 - (<font color="green"><b>+84,859</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">264</td>
+                            <td>August 19, 2019</td>
+                           
+                            <td>4,763,834 - (<font color="green"><b>+2,855</b></font>)</td>
+                            
+                            <td>216,773,269 - (<font color="green"><b>+102,417</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">265</td>
+                            <td>August 18, 2019</td>
+                           
+                            <td>4,760,979 - (<font color="green"><b>+3,886</b></font>)</td>
+                            
+                            <td>216,670,852 - (<font color="green"><b>+108,557</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">266</td>
+                            <td>August 17, 2019</td>
+                           
+                            <td>4,757,093 - (<font color="green"><b>+3,000</b></font>)</td>
+                            
+                            <td>216,562,295 - (<font color="green"><b>+96,153</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">267</td>
+                            <td>August 16, 2019</td>
+                           
+                            <td>4,754,093 - (<font color="green"><b>+2,780</b></font>)</td>
+                            
+                            <td>216,466,142 - (<font color="green"><b>+93,525</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">268</td>
+                            <td>August 15, 2019</td>
+                           
+                            <td>4,751,313 - (<font color="green"><b>+2,389</b></font>)</td>
+                            
+                            <td>216,372,617 - (<font color="green"><b>+95,051</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">269</td>
+                            <td>August 14, 2019</td>
+                           
+                            <td>4,748,924 - (<font color="green"><b>+2,383</b></font>)</td>
+                            
+                            <td>216,277,566 - (<font color="green"><b>+85,838</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">270</td>
+                            <td>August 13, 2019</td>
+                           
+                            <td>4,746,541 - (<font color="green"><b>+2,646</b></font>)</td>
+                            
+                            <td>216,191,728 - (<font color="green"><b>+96,043</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">271</td>
+                            <td>August 12, 2019</td>
+                           
+                            <td>4,743,895 - (<font color="green"><b>+2,845</b></font>)</td>
+                            
+                            <td>216,095,685 - (<font color="green"><b>+115,029</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">272</td>
+                            <td>August 11, 2019</td>
+                           
+                            <td>4,741,050 - (<font color="green"><b>+2,685</b></font>)</td>
+                            
+                            <td>215,980,656 - (<font color="green"><b>+118,947</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">273</td>
+                            <td>August 10, 2019</td>
+                           
+                            <td>4,738,365 - (<font color="green"><b>+3,223</b></font>)</td>
+                            
+                            <td>215,861,709 - (<font color="green"><b>+100,502</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">274</td>
+                            <td>August 9, 2019</td>
+                           
+                            <td>4,735,142 - (<font color="green"><b>+2,501</b></font>)</td>
+                            
+                            <td>215,761,207 - (<font color="green"><b>+87,479</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">275</td>
+                            <td>August 8, 2019</td>
+                           
+                            <td>4,732,641 - (<font color="green"><b>+2,728</b></font>)</td>
+                            
+                            <td>215,673,728 - (<font color="green"><b>+107,123</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">276</td>
+                            <td>August 7, 2019</td>
+                           
+                            <td>4,729,913 - (<font color="green"><b>+2,569</b></font>)</td>
+                            
+                            <td>215,566,605 - (<font color="green"><b>+86,864</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">277</td>
+                            <td>August 6, 2019</td>
+                           
+                            <td>4,727,344 - (<font color="green"><b>+2,313</b></font>)</td>
+                            
+                            <td>215,479,741 - (<font color="green"><b>+92,480</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">278</td>
+                            <td>August 5, 2019</td>
+                           
+                            <td>4,725,031 - (<font color="green"><b>+2,516</b></font>)</td>
+                            
+                            <td>215,387,261 - (<font color="green"><b>+107,811</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">279</td>
+                            <td>August 4, 2019</td>
+                           
+                            <td>4,722,515 - (<font color="green"><b>+2,772</b></font>)</td>
+                            
+                            <td>215,279,450 - (<font color="green"><b>+113,497</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">280</td>
+                            <td>August 3, 2019</td>
+                           
+                            <td>4,719,743 - (<font color="green"><b>+2,694</b></font>)</td>
+                            
+                            <td>215,165,953 - (<font color="green"><b>+95,451</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">281</td>
+                            <td>August 2, 2019</td>
+                           
+                            <td>4,717,049 - (<font color="green"><b>+2,365</b></font>)</td>
+                            
+                            <td>215,070,502 - (<font color="green"><b>+88,195</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">282</td>
+                            <td>August 1, 2019</td>
+                           
+                            <td>4,714,684 - (<font color="green"><b>+2,368</b></font>)</td>
+                            
+                            <td>214,982,307 - (<font color="green"><b>+92,526</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">283</td>
+                            <td>July 31, 2019</td>
+                           
+                            <td>4,712,316 - (<font color="green"><b>+1,965</b></font>)</td>
+                            
+                            <td>214,889,781 - (<font color="green"><b>+80,895</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">284</td>
+                            <td>July 30, 2019</td>
+                           
+                            <td>4,710,351 - (<font color="green"><b>+2,236</b></font>)</td>
+                            
+                            <td>214,808,886 - (<font color="green"><b>+85,279</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">285</td>
+                            <td>July 29, 2019</td>
+                           
+                            <td>4,708,115 - (<font color="green"><b>+2,613</b></font>)</td>
+                            
+                            <td>214,723,607 - (<font color="green"><b>+90,575</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="even">
+                            <td style="display:none;">286</td>
+                            <td>July 28, 2019</td>
+                           
+                            <td>4,705,502 - (<font color="green"><b>+2,993</b></font>)</td>
+                            
+                            <td>214,633,032 - (<font color="green"><b>+105,432</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr><tr role="row" class="odd">
+                            <td style="display:none;">287</td>
+                            <td>July 27, 2019</td>
+                           
+                            <td>4,702,509 - (<font color=""><b>0</b></font>)</td>
+                            
+                            <td>214,527,600 - (<font color=""><b>0</b></font>)</td>                                                        
+                            
+                            <td>34 - (<font color=""><b>0</b></font>)</td>
+                          </tr></tbody>
