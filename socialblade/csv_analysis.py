@@ -20,7 +20,8 @@ people = [
     "beyonce",
     "kendalljenner",
     "kinbach",
-    "amrezy"
+    "amrezy",
+    "9gag"
 ]
 
 medias = [
