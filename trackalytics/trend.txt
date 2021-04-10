@@ -10,7 +10,7 @@ cyriak                      1.784767               0.740170                6.005
 freddiew2                  -0.131263              -0.862069                0.869565
 mrpeistar                  -0.085199              -1.052813                0.917431
 themarkofj                 -0.051257              -0.833333                1.296374
-
+AVERAGE                     0.942501              -0.288069                3.900943  
 
 YOUTUBE + OTHER:
                   avg_monthly_growth  lowest_monthly_growth  highest_monthly_growth
@@ -24,3 +24,4 @@ gotaga                      2.470338               0.000000               11.250
 maangchi                    2.680348               1.530612                5.399061
 pokimane                    7.785004               1.724138               26.911978
 yomama                      2.570015               0.000000               17.963982
+AVERAGE                     3.539121               0.705552               13.824275
