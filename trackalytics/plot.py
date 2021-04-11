@@ -7,10 +7,24 @@ import numpy as np
 dir = 'data/'
 
 people = [
-    "ninja",
-    "pewdiepie",
+    # "cyriak",
+    # "Fluffeetalks",
+    # "mrpeistar",
+    # "freddiew2",
+    # "RobTopGames",
+    # "themarkofj",
+    # "Maximilianmus",
+    # "Maxmoefoepokemon",
+    # "Mrddlms"
     "pokimane",
-    "TypicalGamer"
+    "maangchi",
+    "Jazzghost",
+    "TypicalGamer",
+    "yomama",
+    "Cinnamontoastken",
+    "dodoeskabak",
+    "gotaga",
+    "Deligracy"
 ]
 
 medias = [
@@ -34,15 +48,19 @@ for person in people:
     mask = np.triu(np.ones_like(df.corr(), dtype=bool))
 
     svm = sns.heatmap(df.corr(), mask=mask, annot = True,cmap='coolwarm')
-    figure = svm.get_figure()    
-    figure.savefig('images/'+person+'_correlation.png')
+    figure = svm.get_figure()
+    #figure.savefig('images/'+person+'_correlation.png')
+    #figure.savefig('images_youtube_only/'+person+'_correlation.png')
+    figure.savefig('images_multiplatform/'+person+'_correlation.png')
 
     plt.ylabel(person+' Followers')
     plt.xlabel("Date")
     df.to_csv("data/"+person+".csv")
     df.plot()
     plt.xticks(rotation=20)
-    plt.savefig('images/'+person+'.png')
+    #plt.savefig('images/'+person+'.png')
+    #plt.savefig('images_youtube_only/'+person+'.png')
+    plt.savefig('images_multiplatform/'+person+'.png')
 
     df=(df-df.min())/(df.max()-df.min())
 
@@ -50,4 +68,6 @@ for person in people:
     plt.xlabel("Date")
     df.plot()
     plt.xticks(rotation=20)
-    plt.savefig('images/'+person+'_scaled.png')
+    #plt.savefig('images/'+person+'_scaled.png')
+    #plt.savefig('images_youtube_only/'+person+'_scaled.png')
+    plt.savefig('images_multiplatform/'+person+'_scaled.png')
